@@ -48,6 +48,10 @@ export interface FilterProps {
   model: string;
 }
 
+export interface HomeProps {
+  searchParams: FilterProps;
+}
+
 export interface ShowMoreProps {
   pageNumber: number;
   isNext: boolean;
