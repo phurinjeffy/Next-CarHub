@@ -1,6 +1,6 @@
 # Next.js CarHub
 
-<img width="1512" alt="image" src="https://github.com/phurinjeffy/Next-CarHub/assets/110296454/1428d659-c556-4590-89d7-73871f47db03">
+<img width="1512" alt="image" src="https://github.com/phurinjeffy/Next-CarHub/assets/110296454/3d2b4448-0335-4fc3-a19a-086c77df4376">
 <img width="1512" alt="image" src="https://github.com/phurinjeffy/Next-CarHub/assets/110296454/e8431929-9698-4941-abf0-cfaa36675211">
 
 ## Getting Started
